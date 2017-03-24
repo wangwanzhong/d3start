@@ -4,10 +4,14 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { BubblesComponent } from './bubbles/bubbles.component';
+import { BubblesChartDirective } from './bubbles-chart.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BubblesComponent,
+    BubblesChartDirective
   ],
   imports: [
     BrowserModule,

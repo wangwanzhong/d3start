@@ -1,6 +1,6 @@
-# D3start
+# 使用 D3 和 Angular 实现自定义数据可视化
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.25.5.
+[使用 D3 和 Angular 实现自定义数据可视化](https://www.ibm.com/developerworks/cn/web/wa-custom-vizualizations-angular-d3-trs/index.html).
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
